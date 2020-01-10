@@ -24,3 +24,6 @@ extension Note: Equatable {
         return lhs.noteText == rhs.noteText && lhs.noteTimestamp == rhs.noteTimestamp
     }
 } //End of extension
+
+
+//checking changes in GitHub
